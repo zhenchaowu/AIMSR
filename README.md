@@ -6,6 +6,6 @@ This is the official implementation of **Meta-optimized Session-based Recommenda
 
 first construct a shortest-path- aware global item graph
 
-'''
-# a = b
-'''
+```
+conda env create -f environment.yaml
+```
